@@ -1,5 +1,6 @@
-package android.dev.alex.projectonev1;
+package android.dev.alex.projectonev1.activities;
 
+import android.dev.alex.projectonev1.R;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
